@@ -47,6 +47,7 @@ Tools/AI:     PM2 (when needed), Figma-to-UI workflow, Cursor</code></pre>
 - 🌏 **Philippines Global Launch** — Shipped KRW–USD multi-currency support, localization architecture, and multi-region scalability improvements
 - 🗂️ **Google Sheets CMS** — Introduced a Sheets-based CMS for B2C customization, enabling faster content control and release cycles
 - ⚙️ **AWS Deployment Automation** — CI/CD automation with safe rollbacks using GitHub Actions
+- 🤖 **Eoding GPT App + MCP APIs** — Built and operated GPT apps with MCP-based APIs; extended infra with Terraform and CI/CD with safe rollbacks
 
 ---
 
