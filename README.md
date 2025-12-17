@@ -39,21 +39,15 @@ Tools/AI:     PM2 (when needed), Figma-to-UI workflow, Cursor</code></pre>
 
 ### 🚀 Projects
 
-- 🌍 **All That Trip** — B2C travel site (web + ops)  
-  Repo: https://github.com/YOUR_GITHUB_USERNAME/REPO  
-  Demo: https://YOUR_DEMO_URL  
-
-- 🚌 **Seat Selection System** — Interactive booking UI & state management  
-  Repo: https://github.com/YOUR_GITHUB_USERNAME/REPO  
-
-- 🔐 **Expo WebView Google Login** — Native OAuth + WebView token bridge prototype  
-  Repo: https://github.com/YOUR_GITHUB_USERNAME/REPO  
-
-- 🧰 **CI/CD Pipeline** — Docker builder + Jenkins automation for consistent deployments  
-  Repo: https://github.com/YOUR_GITHUB_USERNAME/REPO  
-
-- 📈 **Trading Tools** — TradingView indicators & automated strategies (research/build focus)  
-  Repo: https://github.com/YOUR_GITHUB_USERNAME/REPO  
+- 🧱 Eoding Web Builder — Next.js-based site builder that lets travel agencies self-manage and customize their websites
+- 🧩 Travel Agency ERP + API Layer — Built core ERP features in Django and Kotlin APIs as the data layer for the Web Builder
+- 💳 Multi-PG Payment Flow — Designed and implemented a unified payment flow integrating 4 payment gateways (PGs)
+- 📅 Promotion Calendar System — Rule engine for complex promos (early-bird, multi-night, overlaps, minimum-stay logic)
+- 📊 Eoding Live Analytics — Real-time dashboard visualizing reservations, sales, and agency trends
+- 🌏 Philippines Global Launch — Shipped KRW–USD multi-currency support, localization architecture, and multi-region scalability improvements
+- 🗂️ Google Sheets CMS — Introduced a Sheets-based CMS for B2C customization, enabling faster content control and release cycles
+- ⚙️ AWS Deployment Automation — CI/CD automation with safe rollbacks using GitHub Actions
+- 📈 deep-trading-bot — DQN-based crypto trading bot experiments (Python)
 
 ---
 
