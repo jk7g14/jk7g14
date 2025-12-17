@@ -6,9 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://YOUR_DOMAIN_OR_PORTFOLIO" target="_blank"><img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-444444?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jaehun-kim-290bb8b6" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://jk7g14.github.io" target="_blank"><img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
@@ -57,13 +56,13 @@ Tools:        Sentry, PM2 (when needed), Figma-to-UI workflow</code></pre>
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jk7g14&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jk7g14&theme=radical" alt="GitHub streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jk7g14&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 ---
@@ -81,9 +80,9 @@ Tools:        Sentry, PM2 (when needed), Figma-to-UI workflow</code></pre>
 
 ### 💬 Let’s Connect
 
-- 💼 LinkedIn → https://www.linkedin.com/in/YOUR_LINKEDIN_ID
-- 🌐 Website → https://YOUR_DOMAIN_OR_PORTFOLIO
-- ✉️ Email → YOUR_EMAIL@example.com
+- 💼 LinkedIn → https://www.linkedin.com/in/jaehun-kim-290bb8b6
+- 🌐 Website → https://jk7g14.github.io
+- ✉️ Email → jk7g14@gmail.com
 
 ---
 
