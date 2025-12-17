@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm James (Jaehun Kim) 👋</h1>
+<h1 align="center">Hi, I'm Jaehun Kim 👋</h1>
 
 <p align="center">
   <b>Product Engineer • Full-Stack Builder • CI/CD Automator • WebView App Builder</b><br>
