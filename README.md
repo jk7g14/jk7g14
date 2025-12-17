@@ -6,8 +6,12 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jaehun-kim-290bb8b6" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://jk7g14.github.io" target="_blank"><img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jaehun-kim-290bb8b6/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://jk7g14.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -24,12 +28,12 @@
 ### 🔥 Tech Stack
 
 <pre><code>Languages:    JavaScript, Python, Kotlin, SQL
-Frontend:     React, Next.js, Theme UI, Tailwind CSS
+Frontend:     React, Next.js, Theme UI, Tailwind CSS, CSS modules
 Backend:      Django, Node.js, (Kotlin/Spring if applicable)
 Database:     MariaDB, Redis
 Infra/DevOps: Docker, Jenkins, GitHub Actions, AWS (EC2)
 Mobile:       Expo (React Native), WebView
-Tools:        PM2 (when needed), Figma-to-UI workflow</code></pre>
+Tools/AI:     PM2 (when needed), Figma-to-UI workflow, Cursor</code></pre>
 
 ---
 
@@ -50,20 +54,6 @@ Tools:        PM2 (when needed), Figma-to-UI workflow</code></pre>
 
 - 📈 **Trading Tools** — TradingView indicators & automated strategies (research/build focus)  
   Repo: https://github.com/YOUR_GITHUB_USERNAME/REPO  
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jk7g14&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jk7g14&theme=radical" alt="GitHub streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jk7g14&layout=compact&theme=radical" alt="Top languages" />
-</p>
 
 ---
 
