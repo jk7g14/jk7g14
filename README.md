@@ -48,6 +48,8 @@ Tools/AI:     PM2 (when needed), Figma-to-UI workflow, Cursor</code></pre>
 - 🗂️ Google Sheets CMS — Introduced a Sheets-based CMS for B2C customization, enabling faster content control and release cycles
 - ⚙️ AWS Deployment Automation — CI/CD automation with safe rollbacks using GitHub Actions
 - 📈 deep-trading-bot — DQN-based crypto trading bot experiments (Python)
+- 🧾 EtherMembership — Ethereum smart-contract–based membership/donation system that automates member tiers (Factory + per-site Membership contracts)
+- 🦄 Mini AMM (Uniswap Contracts) — Built and deployed a mini AMM while studying Uniswap architecture (Solidity)
 
 ---
 
