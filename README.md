@@ -12,7 +12,7 @@
   <a href="https://jk7g14.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="./assets/resume.pdf?raw=1" target="_blank">
+  <a href="./assets/resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-PDF-444444?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
