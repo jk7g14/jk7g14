@@ -39,17 +39,20 @@ Tools/AI:     PM2 (when needed), Figma-to-UI workflow, Cursor</code></pre>
 
 ### 🚀 Projects
 
-- 🧱 Eoding Web Builder — Next.js-based site builder that lets travel agencies self-manage and customize their websites
-- 🧩 Travel Agency ERP + API Layer — Built core ERP features in Django and Kotlin APIs as the data layer for the Web Builder
-- 💳 Multi-PG Payment Flow — Designed and implemented a unified payment flow integrating 4 payment gateways (PGs)
-- 📅 Promotion Calendar System — Rule engine for complex promos (early-bird, multi-night, overlaps, minimum-stay logic)
-- 📊 Eoding Live Analytics — Real-time dashboard visualizing reservations, sales, and agency trends
-- 🌏 Philippines Global Launch — Shipped KRW–USD multi-currency support, localization architecture, and multi-region scalability improvements
-- 🗂️ Google Sheets CMS — Introduced a Sheets-based CMS for B2C customization, enabling faster content control and release cycles
-- ⚙️ AWS Deployment Automation — CI/CD automation with safe rollbacks using GitHub Actions
-- 📈 deep-trading-bot — DQN-based crypto trading bot experiments (Python)
-- 🧾 EtherMembership — Ethereum smart-contract–based membership/donation system that automates member tiers (Factory + per-site Membership contracts)
-- 🦄 Mini AMM (Uniswap Contracts) — Built and deployed a mini AMM while studying Uniswap architecture (Solidity)
+- 🧱 **Eoding Web Builder** — Next.js-based site builder that lets travel agencies self-manage and customize their websites
+- 🧩 **Travel Agency ERP + API Layer** — Built core ERP features in Django and Kotlin APIs as the data layer for the Web Builder
+- 💳 **Multi-PG Payment Flow** — Designed and implemented a unified payment flow integrating 4 payment gateways (PGs)
+- 📅 **Promotion Calendar System** — Rule engine for complex promos (early-bird, multi-night, overlaps, minimum-stay logic)
+- 📊 **Eoding Live Analytics** — Real-time dashboard visualizing reservations, sales, and agency trends
+- 🌏 **Philippines Global Launch** — Shipped KRW–USD multi-currency support, localization architecture, and multi-region scalability improvements
+- 🗂️ **Google Sheets CMS** — Introduced a Sheets-based CMS for B2C customization, enabling faster content control and release cycles
+- ⚙️ **AWS Deployment Automation** — CI/CD automation with safe rollbacks using GitHub Actions
+- 📈 **deep-trading-bot** — DQN-based crypto trading bot experiments (Python)
+- 🧾 **EtherMembership** — Ethereum smart-contract–based membership/donation system that automates member tiers (Factory + per-site Membership contracts)
+- 🦄 **Mini AMM (Uniswap Contracts)** — Built and deployed a mini AMM while studying Uniswap architecture (Solidity)
+- 🧠 **Web Server Log Anomaly Detection** — Autoencoder-based anomaly detection trained on 300GB+ logs using Distributed TensorFlow + Hadoop; GPU-accelerated inference on HDFS
+- 🌱 **Plant Growth Analysis (Computer Vision)** — Tomato growth analytics: stem thickness/length estimation + flower/fruit counting via object detection and CNNs (TensorFlow)
+- 🐟 **The Nature Conservancy Fisheries Monitoring (Kaggle)** — Top 7% finish; applied ResNet and Inception-ResNet-v2 for fisheries monitoring
 
 ---
 
