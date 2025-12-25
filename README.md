@@ -36,7 +36,7 @@ Backend:      Django, Node.js, (Kotlin/Spring if applicable)
 Database:     MariaDB, Redis
 Infra/DevOps: Docker, Jenkins, GitHub Actions, AWS (EC2)
 Mobile:       Expo (React Native), WebView
-Tools/AI:     PM2 (when needed), Figma-to-UI workflow, Cursor</code></pre>
+Tools/AI:     Figma-to-UI workflow, Cursor</code></pre>
 
 ---
 
