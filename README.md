@@ -34,7 +34,7 @@
 Frontend:     React, Next.js, Theme UI, Tailwind CSS, CSS modules
 Backend:      Django, Node.js, (Kotlin/Spring if applicable)
 Database:     MariaDB, Redis
-Infra/DevOps: Docker, Jenkins, GitHub Actions, AWS (EC2)
+Infra/DevOps: Docker, Jenkins, GitHub Actions, AWS (EC2, ECR, ECS)
 Mobile:       Expo (React Native), WebView
 Tools/AI:     Figma-to-UI workflow, Cursor</code></pre>
 
