@@ -44,9 +44,9 @@ Tools/AI:     Claude Code, Cursor, Figma-to-UI workflow</code></pre>
 
 ### 🚀 Projects (Eoding)
 
-- 🤖 **Eoding ChatGPT App (MCP)** — Travel product search [live on the ChatGPT Apps directory](https://chatgpt.com/apps/app/asdk_app_6943ef14c61881919c11b9ab92b31e6c): MCP server (Streamable HTTP) + OpenAI Apps SDK with interactive in-chat React widgets, backed by a TypeScript/Express search API over live ERP inventory (6,000+ cities, 84 categories)
-- 🎨 **Eoding Canvas (AI Agent)** — In-ERP AI agent that turns the product, price & promotion data agencies already manage in the ERP into campaign-ready banners & detail pages with zero extra input (→ platform lock-in): multi-model image generation (Gemini, GPT Image 2, Grok Imagine) with two-stage outpainting & fallbacks, layout-aware against 85+ production banner templates (auto-computed safe zones for headers/forms/text overlays), mask-based editing, per-agency quotas
-- 🧱 **Eoding Web Builder** — Next.js-based site builder that lets travel agencies self-manage and customize their websites
+- 🤖 **Eoding ChatGPT App (MCP)** — Travel product search [live on the ChatGPT Apps directory](https://chatgpt.com/apps/app/asdk_app_6943ef14c61881919c11b9ab92b31e6c) since Feb 2026: MCP server (Streamable HTTP) + OpenAI Apps SDK with interactive in-chat React widgets, backed by a TypeScript/Express search API over live ERP inventory (15,000+ products, 6,000+ cities)
+- 🎨 **Eoding Canvas (AI Agent)** — In-ERP AI agent that turns the product, price & promotion data agencies already manage in the ERP into campaign-ready banners (2–3 min) & detail pages with zero extra input (→ platform lock-in) — 4,000+ images generated across 20+ agencies: multi-model image generation (Gemini, GPT Image 2, Grok Imagine) with two-stage outpainting & fallbacks, layout-aware against 85+ production banner templates (auto-computed safe zones for headers/forms/text overlays), mask-based editing, per-agency quotas
+- 🧱 **Eoding Web Builder** — Next.js-based site builder serving 200+ paying travel agencies, who self-manage and customize their own websites
 - 🧩 **Travel Agency ERP + API Layer** — Built core ERP features in Django and Kotlin APIs as the data layer for the Web Builder
 - 💳 **Multi-PG Payment Flow** — Designed and implemented a unified payment flow integrating 4 payment gateways (PGs)
 - 📅 **Promotion Calendar System** — Rule engine for complex promos (early-bird, multi-night, overlaps, minimum-stay logic)
