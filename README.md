@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jaehun Kim 👋</h1>
 
 <p align="center">
-  <b>Product Engineer • Full-Stack Builder • CI/CD Automator • WebView App Builder</b><br>
+  <b>Product Engineer • AI Agent & MCP Builder • Full-Stack Builder • CI/CD Automator</b><br>
   Product Engineer turning scalable MVPs into real-world products.
 </p>
 
@@ -22,6 +22,7 @@
 ### 🧠 What I Do
 
 - 🚀 **Product Engineering** — MVP → Production, rapid delivery with solid foundations
+- 🤖 **AI Products** — AI agents, MCP servers, ChatGPT Apps, multi-model image generation pipelines
 - 🧱 **Full-Stack Web** — Next.js, APIs, auth, admin tools, data-driven UX
 - ⚙️ **Infra & CI/CD** — Docker builder workflows, Jenkins/GitHub Actions, AWS deployments
 - 📱 **App (WebView) Integration** — Expo + WebView, native OAuth flows, token handoff
@@ -30,18 +31,21 @@
 
 ### 🔥 Tech Stack
 
-<pre><code>Languages:    JavaScript, Python, Kotlin, SQL
+<pre><code>Languages:    JavaScript/TypeScript, Python, Kotlin, SQL
 Frontend:     React, Next.js, Theme UI, Tailwind CSS, CSS modules
-Backend:      Django, Node.js, (Kotlin/Spring if applicable)
+Backend:      Django, Node.js (Express), Kotlin
+AI/LLM:       MCP (Model Context Protocol), OpenAI Apps SDK, AI SDK, GPT, Gemini
 Database:     MariaDB, Redis
-Infra/DevOps: Docker, Jenkins, GitHub Actions, AWS (EC2, ECR, ECS)
+Infra/DevOps: Docker, Jenkins, GitHub Actions, AWS (EC2, ECR, ECS), Datadog APM
 Mobile:       Expo (React Native), WebView
-Tools/AI:     Figma-to-UI workflow, Cursor</code></pre>
+Tools/AI:     Claude Code, Cursor, Figma-to-UI workflow</code></pre>
 
 ---
 
 ### 🚀 Projects (Eoding)
 
+- 🤖 **Eoding ChatGPT App (MCP)** — Travel product search [live on the ChatGPT Apps directory](https://chatgpt.com/apps/app/asdk_app_6943ef14c61881919c11b9ab92b31e6c): MCP server (Streamable HTTP) + OpenAI Apps SDK with interactive in-chat React widgets, backed by a TypeScript/Express search API over live ERP inventory (6,000+ cities, 84 categories)
+- 🎨 **Eoding Canvas (AI Agent)** — In-ERP AI agent generating marketing banners & product detail pages from ERP data: GPT analysis → Gemini image generation, mask-based image editing (inpaint/erase-fill), per-agency quota system (Redis atomic reservation + DB cost tracking), Datadog APM
 - 🧱 **Eoding Web Builder** — Next.js-based site builder that lets travel agencies self-manage and customize their websites
 - 🧩 **Travel Agency ERP + API Layer** — Built core ERP features in Django and Kotlin APIs as the data layer for the Web Builder
 - 💳 **Multi-PG Payment Flow** — Designed and implemented a unified payment flow integrating 4 payment gateways (PGs)
@@ -50,7 +54,6 @@ Tools/AI:     Figma-to-UI workflow, Cursor</code></pre>
 - 🌏 **Philippines Global Launch** — Shipped KRW–USD multi-currency support, localization architecture, and multi-region scalability improvements
 - 🗂️ **Google Sheets CMS** — Introduced a Sheets-based CMS for B2C customization, enabling faster content control and release cycles
 - ⚙️ **AWS Deployment Automation** — CI/CD automation with safe rollbacks using GitHub Actions
-- 🤖 **Eoding GPT App + MCP APIs** — Built and operated GPT apps with MCP-based APIs
 
 ---
 
@@ -74,6 +77,7 @@ Tools/AI:     Figma-to-UI workflow, Cursor</code></pre>
 
 <p align="left">
   <img src="https://img.shields.io/badge/MVP%20to%20Production-Builder-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Agents-MCP%20%C2%B7%20ChatGPT%20Apps-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/CI%2FCD-Automation-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/WebView-App%20Integration-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/Next.js-Shipping%20Fast-black?style=flat-square&logo=nextdotjs" />
