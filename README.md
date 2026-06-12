@@ -35,6 +35,7 @@
 Frontend:     React, Next.js, Theme UI, Tailwind CSS, CSS modules
 Backend:      Django, Node.js (Express), Kotlin
 AI/LLM:       MCP (Model Context Protocol), OpenAI Apps SDK, AI SDK, GPT, Gemini, Grok
+Web3:         Solidity, Foundry, wagmi/viem, ethers, RainbowKit
 Database:     MariaDB, Redis
 Infra/DevOps: Docker, Jenkins, GitHub Actions, AWS (EC2, ECR, ECS)
 Mobile:       Expo (React Native), WebView
@@ -57,10 +58,11 @@ Tools/AI:     Claude Code, Cursor, Figma-to-UI workflow</code></pre>
 
 ---
 
-### 🔗 Web3 Projects
+### 🔗 Web3 / Crypto Projects (2018 → 2025)
 
-- 🧾 **EtherMembership** — Ethereum smart-contract–based membership/donation system that automates member tiers (Factory + per-site Membership contracts)
-- 🦄 **Mini AMM (Uniswap Contracts)** — Built and deployed a mini AMM while studying Uniswap architecture (Solidity)
+- 🦄 **miniAMM** — Uniswap-V2-style AMM DEX built end to end (Sep 2025, blockchain cohort): swap & liquidity contracts in **Solidity + Foundry** (with tests), a **private geth chain + Blockscout explorer via Docker Compose**, and a Next.js 15 frontend with **wagmi/viem, ethers v6, RainbowKit, TypeChain** → [miniAMM-front](https://github.com/jk7g14/miniAMM-front)
+- 📈 **Deep Trading Agent** — DQN agent for **Bitcoin futures (BitMEX XBTUSD)**: CNN+GRU over 12 market features, unrealized-PnL reward, separate long/short agents with stop-loss & fixed bet sizing, backtested on 2014–2018 Bitstamp data → [deep-trading-bot](https://github.com/jk7g14/deep-trading-bot)
+- 🧾 **EtherMembership** — Ethereum smart-contract–based membership/donation system that automates member tiers (Factory + per-site Membership contracts) → [ethermembership](https://github.com/jk7g14/ethermembership)
 
 ---
 
@@ -69,7 +71,6 @@ Tools/AI:     Claude Code, Cursor, Figma-to-UI workflow</code></pre>
 - 🧠 **Web Server Log Anomaly Detection** — Autoencoder-based anomaly detection trained on 300GB+ logs using Distributed TensorFlow + Hadoop; GPU-accelerated inference on HDFS
 - 🌱 **Plant Growth Analysis (Computer Vision)** — Tomato growth analytics: stem thickness/length estimation + flower/fruit counting via object detection and CNNs (TensorFlow)
 - 🐟 **The Nature Conservancy Fisheries Monitoring (Kaggle)** — Top 7% finish; applied ResNet and Inception-ResNet-v2 for fisheries monitoring
-- 📈 **deep-trading-bot** — DQN-based crypto trading bot experiments (Python)
 
 ---
 
