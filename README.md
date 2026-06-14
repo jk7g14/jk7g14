@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/jaehun-kim-290bb8b6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://jk7g14.github.io/" target="_blank">
+  <a href="https://jk7g14.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="./assets/resume.pdf" target="_blank">
@@ -89,7 +89,7 @@ Tools/AI:     Claude Code, Cursor, Figma-to-UI workflow</code></pre>
 ### 💬 Let’s Connect
 
 - 💼 LinkedIn → https://www.linkedin.com/in/jaehun-kim-290bb8b6
-- 🌐 Website → https://jk7g14.github.io
+- 🌐 Website → https://jk7g14.vercel.app
 - ✉️ Email → jk7g14@gmail.com
 
 ---
