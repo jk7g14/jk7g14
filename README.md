@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jaehun Kim 👋</h1>
 
 <p align="center">
-  <b>Product Engineer • AI Agent & MCP Builder • Full-Stack Builder • CI/CD Automator</b><br>
+  <b>Product Builder • AI Agents & MCP • Forward Deployed • Full-Stack • CI/CD</b><br>
   Product Engineer turning scalable MVPs into real-world products.
 </p>
 
@@ -22,6 +22,7 @@
 ### 🧠 What I Do
 
 - 🚀 **Product Engineering** — MVP → Production, rapid delivery with solid foundations
+- 🏨 **Forward-Deployed Building** — design a product from a customer's real data, ship it, then build & teach the install tooling for non-developer staff
 - 🤖 **AI Products** — AI agents, MCP servers, ChatGPT Apps, multi-model image generation pipelines
 - 🧱 **Full-Stack Web** — Next.js, APIs, auth, admin tools, data-driven UX
 - ⚙️ **Infra & CI/CD** — Docker builder workflows, Jenkins/GitHub Actions, AWS deployments
@@ -34,7 +35,7 @@
 <pre><code>Languages:    JavaScript/TypeScript, Python, Kotlin, SQL
 Frontend:     React, Next.js, Theme UI, Tailwind CSS, CSS modules
 Backend:      Django, Node.js (Express), Kotlin
-AI/LLM:       MCP (Model Context Protocol), OpenAI Apps SDK, AI SDK, GPT, Gemini, Grok
+AI/LLM:       MCP (Model Context Protocol), Claude Code skills/plugins, OpenAI Apps SDK, AI SDK, GPT, Gemini, Grok
 Web3:         Solidity, Foundry, wagmi/viem, ethers, RainbowKit
 Database:     MariaDB, Redis
 Infra/DevOps: Docker, Jenkins, GitHub Actions, AWS (EC2, ECR, ECS)
@@ -45,6 +46,7 @@ Tools/AI:     Claude Code, Cursor, Figma-to-UI workflow</code></pre>
 
 ### 🚀 Projects (Eoding)
 
+- 🏨 **Eoding Stay (hotel product + FDE setup toolkit)** — hotel-selling product designed from **330 partner rate sheets** (~248 hotels) and built across a **Django/htmx ERP editor, a Kotlin pricing engine, and a Next.js customer web**; then, forward-deployed, an open toolkit that turns one hotel contract into a checked input guide and fills the ERP screens automatically via a **browser runner or MCP server** — a 100+ field manual setup down to a **12-minute, zero-warning install** → [stay-setup-guide](https://github.com/eoding/stay-setup-guide)
 - 🤖 **Eoding ChatGPT App (MCP)** — Travel product search [live on the ChatGPT Apps directory](https://chatgpt.com/apps/app/asdk_app_6943ef14c61881919c11b9ab92b31e6c) since Feb 2026: MCP server (Streamable HTTP) + OpenAI Apps SDK with interactive in-chat React widgets, backed by a TypeScript/Express search API over live ERP inventory (15,000+ products, 6,000+ cities)
 - 🎨 **Eoding Canvas (AI Agent)** — In-ERP AI agent that turns the product, price & promotion data agencies already manage in the ERP into campaign-ready banners (2–3 min) & detail pages with zero extra input (→ platform lock-in) — 4,000+ images generated across 20+ agencies: multi-model image generation (Gemini, GPT Image 2, Grok Imagine) with two-stage outpainting & fallbacks, layout-aware against 85+ production banner templates (auto-computed safe zones for headers/forms/text overlays), mask-based editing, per-agency quotas
 - 🧱 **Eoding Web Builder** — Next.js-based site builder serving 200+ paying travel agencies, who self-manage and customize their own websites
@@ -79,6 +81,7 @@ Tools/AI:     Claude Code, Cursor, Figma-to-UI workflow</code></pre>
 <p align="left">
   <img src="https://img.shields.io/badge/MVP%20to%20Production-Builder-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/AI%20Agents-MCP%20%C2%B7%20ChatGPT%20Apps-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Forward%20Deployed-Stay%20hotel%20product-008080?style=flat-square" />
   <img src="https://img.shields.io/badge/CI%2FCD-Automation-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/WebView-App%20Integration-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/Next.js-Shipping%20Fast-black?style=flat-square&logo=nextdotjs" />
