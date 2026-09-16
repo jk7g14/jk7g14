@@ -2,7 +2,8 @@
 
 <p align="center">
   <b>Product Builder • AI Agents & MCP • Forward Deployed • Full-Stack • CI/CD</b><br>
-  Product Engineer turning scalable MVPs into real-world products.
+  Product Builder turning scalable MVPs into real-world products.<br>
+  Product Builder since July 2026; previously Product Engineer, July 2023–June 2026.
 </p>
 
 <p align="center">
@@ -46,7 +47,7 @@ Tools/AI:     Claude Code, Cursor, Figma-to-UI workflow</code></pre>
 
 ### 🚀 Projects (Eoding)
 
-- 🏨 **Eoding Stay (hotel product + FDE setup toolkit)** — hotel-selling product designed from **330 partner rate sheets** (~248 hotels) and built across a **Django/htmx ERP editor, a Kotlin pricing engine, and a Next.js customer web**; then, forward-deployed, an open toolkit that turns one hotel contract into a checked input guide and fills the ERP screens automatically via a **browser runner or MCP server** — a 100+ field manual setup down to a **12-minute, zero-warning install** → [stay-setup-guide](https://github.com/eoding/stay-setup-guide)
+- 🏨 **Eoding Stay (hotel product + FDE setup toolkit)** — hotel-selling product designed from **330 partner rate sheets** (~248 hotels) and built across a **Django/htmx ERP editor, a Kotlin pricing engine, and a Next.js customer web**; then, forward-deployed, an open toolkit that turns one hotel contract into a checked input guide and fills the ERP screens automatically via a **browser runner or MCP server** — demonstrated **one hotel setup with 100+ fields in 12 minutes with zero warnings** → [stay-setup-guide](https://github.com/eoding/stay-setup-guide)
 - 🤖 **Eoding ChatGPT App (MCP)** — Travel product search [live on the ChatGPT Apps directory](https://chatgpt.com/apps/app/asdk_app_6943ef14c61881919c11b9ab92b31e6c) since Feb 2026: MCP server (Streamable HTTP) + OpenAI Apps SDK with interactive in-chat React widgets, backed by a TypeScript/Express search API over live ERP inventory (15,000+ products, 6,000+ cities)
 - 🎨 **Eoding Canvas (AI Agent)** — In-ERP AI agent that turns the product, price & promotion data agencies already manage in the ERP into campaign-ready banners (2–3 min) & detail pages with zero extra input (→ platform lock-in) — 4,000+ images generated across 20+ agencies: multi-model image generation (Gemini, GPT Image 2, Grok Imagine) with two-stage outpainting & fallbacks, layout-aware against 85+ production banner templates (auto-computed safe zones for headers/forms/text overlays), mask-based editing, per-agency quotas
 - 🧱 **Eoding Web Builder** — Next.js-based site builder serving 200+ paying travel agencies, who self-manage and customize their own websites
